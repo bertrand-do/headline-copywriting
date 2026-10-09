@@ -4,9 +4,9 @@ Audience: anyone writing the landing page, sales page or homepage for their own 
 
 ## 1. Do the research before any sentence
 
-Wiebe's method comes first. Mine the exact words [your reader] uses about their own pain: job posts and forum threads, Reddit and Facebook groups, community comments, reviews of competing products, support tickets, sales call transcripts, your own customer chats. Read line by line, highlight repeated phrases, do not summarize while reading, and tag themes (Wiebe, Corey customer-research). Keep a file of the raw phrases with their sources. The right kind of material sounds like a person said it. (Example: for a tool that helps freelancers sell AI product photos, lines such as "Dear hiring manager, check my portfolio" and "twenty generations later the product still looks almost right" came straight from job posts and forum threads.) Build the headline and section titles from these phrases, not from a model's idea of marketing. Test every candidate against Dry's rule that great copy reads like the customer wrote it.
+Wiebe's method comes first. Mine the exact words [your reader] uses about their own pain: job posts and forum threads, Reddit and Facebook groups, community comments, reviews of competing products, support tickets, sales call transcripts, your own customer chats. Read line by line, highlight repeated phrases, do not summarize while reading, and tag themes (Wiebe, Corey customer-research). Keep a file of the raw phrases with their sources. The right kind of material sounds like a person said it. Build the headline and section titles from these phrases, not from a model's idea of marketing. Test every candidate against Dry's rule that great copy reads like the customer wrote it.
 
-Then decide the awareness level (Schwartz). Work out where [your reader] sits. If they are problem-aware and often solution-aware, they already know the category exists and may already use something in it, so the hero should not explain the category. It should name the specific pain that remains and the specific outcome, which is Schwartz's level 3 headline: the need, proof it can be met, and how. If your reader is less aware, the hero has to start earlier, with the problem or the desire. (Example: for a tool that helps freelancers sell AI product photos, readers already knew AI could make product photos, so the hero skipped the explanation.)
+Then decide the awareness level (Schwartz). Work out where [your reader] sits. If they are problem-aware and often solution-aware, they already know the category exists and may already use something in it, so the hero should not explain the category. It should name the specific pain that remains and the specific outcome, which is Schwartz's level 3 headline: the need, proof it can be met, and how. If your reader is less aware, the hero has to start earlier, with the problem or the desire.
 
 Then settle positioning before writing (Dunford). Name the real alternatives [your reader] has today: a manual workaround, a general-purpose tool, a competitor, or doing nothing new. Pick the one or two unique attributes only [your product] has, the value those create, who cares most, and the category that makes the value obvious. The objection "isn't this just [the obvious alternative]" is a competitive-alternatives question. Answer it by saying which alternative you beat and on what, not by denying the similarity. Do not position against phantom competitors (Dunford).
 
@@ -33,7 +33,7 @@ Headline rules:
 - It makes one promise to one reader (Rule of One in Wiebe).
 - Specific beats generic. Replace "get results faster" with a number, a timeframe or a thing someone can picture (Shapiro hook A, Dry).
 - Run the "Now you can" test and the discomfort, vision, path shape from Corey's copy-frameworks file. Pick a formula from that file only as a starting point and fill every slot with a real specific.
-- Optionally use Shapiro's hook B: answer the single biggest objection inside the header. Pick the strongest objection from your research and use only one. (Example: for a tool that helps freelancers sell AI product photos, the strongest objections were "product comes out wrong" and "looks like AI".)
+- Optionally use Shapiro's hook B: answer the single biggest objection inside the header. Pick the strongest objection from your research and use only one.
 - A rhetorical question that names the pain is acceptable if it is in the reader's voice (Corey), not if it labels your own claim ("The result?").
 
 Subhead rules:
@@ -48,7 +48,7 @@ Call to action rules:
 ## 4. Objections and proof
 
 - Collect the real objections from customers: "what nearly stopped you" (Shapiro). Put the biggest in the hero, the rest in the feature paragraphs and an objection section.
-- Handle [the main objection] with evidence the reader can check, not reassurance. A before and after, a stated number, a check described step by step. Apply Dry's falsify test: "high quality" cannot be wrong, a specific claim that anyone could verify can. (Example: for AI product photos, "looks real" cannot be wrong, while "label text matches the original on every output" can.)
+- Handle [the main objection] with evidence the reader can check, not reassurance. A before and after, a stated number, a check described step by step. Apply Dry's falsify test: "high quality" cannot be wrong, a specific claim that anyone could verify can.
 - Handle "isn't this just [the obvious alternative]" in Dunford's terms: concede what is the same, name the status quo you replace, state the attribute only you have, and show it.
 - Use Hormozi's equation as a per-section diagnostic. Dream outcome: what [your reader] ultimately wants. Perceived likelihood: proof it will work for them. Time delay: how fast they get it. Effort and sacrifice: how little they have to do or give up. Ask of every block which term it moves.
 - Social proof should be specific and attributed. Testimonial text can be used as body copy (Dry). No fabricated stats or testimonials (Corey).
@@ -57,7 +57,7 @@ Call to action rules:
 
 Do not turn the whole page into a story. Use story in three small, defined places, because Shapiro and Corey both lean on clarity and structure, while SB7 and Bridge lean on narrative.
 
-- The reader is the hero (SB7). [Your reader] wants something, meets a problem (external: the visible obstacle; internal: how it makes them feel; philosophical: why it should not be this way), meets [your product] as the guide with empathy and authority, gets a three step plan, and avoids failure or reaches success. Map each page section to one of these seven parts and the page has a spine. (Example: for a tool that helps freelancers sell AI product photos, the external problem was no replies and wrong products, the internal one was feeling like a commodity, and the philosophical one was that it should not take twenty tries.)
+- The reader is the hero (SB7). [Your reader] wants something, meets a problem (external: the visible obstacle; internal: how it makes them feel; philosophical: why it should not be this way), meets [your product] as the guide with empathy and authority, gets a three step plan, and avoids failure or reaches success. Map each page section to one of these seven parts and the page has a spine.
 - Problem section as a Story Spine paragraph. Once a normal routine, one day something goes wrong for the reader, because of that more work, because of that a cost they feel, until finally. Keep it to a few lines in plain words. Agitate (PAS) only as far as the reader nods, since over-agitating reads as cringe (Corey, PAS notes).
 - Founder story as a short Epiphany Bridge: where the founder was, the wall, the epiphany, what was built, what changed. Place it low on the page, never in the hero. Its job is belief that the same epiphany will work for the reader.
 
@@ -92,7 +92,7 @@ Run every test. Fail any one and revise.
 ## 8. Where the sources disagree or are thin
 
 - Clever versus clear: Dry and Bridge reward vivid, surprising lines, Shapiro and Corey say choose clear over creative. Take both: clear on structure and headline, vivid in the concrete detail.
-- Agitation: PAS says make the pain felt, Corey warns about cringe and AI tells, Copyblogger says target the dominant emotion, not the surface problem. The dominant pain is often an identity or status feeling rather than the surface failure. Verify in the research step. (Example: for a tool that helps freelancers sell AI product photos, the guess was being ignored and looking like everyone else, not the technical failure alone.)
+- Agitation: PAS says make the pain felt, Corey warns about cringe and AI tells, Copyblogger says target the dominant emotion, not the surface problem. The dominant pain is often an identity or status feeling rather than the surface failure. Verify in the research step.
 - Story: see section 5.
 - Standard structure versus differentiation: Shapiro is strict, Dunford implies category choice matters more than layout. Structure is standard, positioning is not.
 - Evidence quality: Shapiro and Dunford were fetched from primary pages. Schwartz, Hormozi, Brunson, Rule of One and Pixar's spine are secondary summaries. Verify any exact quote before using it in print.

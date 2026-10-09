@@ -4,14 +4,12 @@ A Claude Code skill for writing landing page headlines that people understand in
 
 It doesn't brainstorm clever lines. It runs a research-first process:
 
-1. **Pick one ideal customer** and get it approved before writing anything.
+1. **Define the ideal customer.** Ask the user, or analyse their codebase and site to propose a few, then get one approved before writing anything.
 2. **Mine their exact words.** Collect 150+ real quotes from Reddit, reviews, forums and support tickets.
 3. **Write a positioning brief** in the style of April Dunford.
 4. **Mirror proven headlines.** It includes a swipe file of 79 headlines from live SaaS homepages and classic direct response, with the template behind each one.
 5. **Test with a synthetic persona panel.** Twelve personas judge each option blind, scored on comprehension and click intent.
 6. **Present the top 4** with scores and one recommendation.
-
-It came out of a real homepage rewrite. Two rounds of "creative" headlines failed. This process produced the winner, *"Find gigs, send samples and get paid"*, a mirror of Dubsado's *"Book clients, send contracts and get paid"*.
 
 ## Install
 

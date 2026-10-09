@@ -9,7 +9,7 @@ A general headline-template library, built from SWIPES.md (35 live hero headline
 - The most common live structures are: "The [category] for [who]" (Linear, Bonsai, Flair, Kit, Figma), "one place" or "only" (HoneyBook, Lemlist, Slack, Airtable), and an imperative verb plus outcome (Dubsado, Clay, Pebblely, Apollo). Among the classics the most-cited families are "How I [outcome]", "Who else wants", "Do you [painful thing]?", "To [audience] who want X but can't Y", and number plus time plus guarantee.
 - Great ones leave out: the brand name (except Framer and Krea, the two weakest on specificity), adjectives like "powerful" and "seamless", the mechanism (saved for the subhead), and any hedge. Short winners (Gumroad, Photoroom, Loom) use one concrete image or number instead.
 - The generic "AI" trend headlines (Notion, Vercel, Zapier, Slack, Airtable) now all say "agents". They are interchangeable. The ones that stay memorable are specific and human: "Go from 0 to $1", "Sell at first sight", "One video is worth a thousand words".
-- Freelancer-tool heroes (Dubsado, HoneyBook, Bonsai) sell the jobs in order, "book clients, send contracts and get paid". Course-style get-clients offers sell a negation: "without cold emails", "without feeling salesy". Nobody in this set leads with a sample, a proof, or a number of replies, which is open ground. (Example of how to read a swipe set: when a whole category leads with the same claim and nobody leads with proof, the proof angle is open ground for you. Run the same check on whatever set you collect for your own market.)
+- Freelancer-tool heroes (Dubsado, HoneyBook, Bonsai) sell the jobs in order, "book clients, send contracts and get paid". Course-style get-clients offers sell a negation: "without cold emails", "without feeling salesy". When a whole category leads with the same claim and nobody leads with proof, the proof angle is open ground. Run that check on whatever swipe set you collect for your own market.
 
 ## The 15 templates, strongest first
 
@@ -64,7 +64,7 @@ A general headline-template library, built from SWIPES.md (35 live hero headline
     - "Do You Make These Mistakes in English?" (Max Sackheim, ran for decades as a control)
     - "Are They Being Promoted Right Over Your Head?"
     - "Are You Ever Tongue-Tied at a Party?"
-    - Typical 6 to 9 words. Works when the reader recognises the exact moment. Name the moment in the reader's own words. (Example: for a tool that helps freelancers sell AI product photos, the moments were the empty inbox after the 75th message and the product label that came out wrong.)
+    - Typical 6 to 9 words. Works when the reader recognises the exact moment. Name the moment in the reader's own words.
 
 11. **To [audience] who want [goal], but [blocker]**
     - "To People Who Want to Write, But Can't Get Started"
@@ -81,7 +81,7 @@ A general headline-template library, built from SWIPES.md (35 live hero headline
     - "Get Freelance Clients Without Feeling Salesy"
     - "Freelance Fast-Track: How to Land High-Paying Clients Without Cold Emails in 7 Days"
     - "Ditch cold pitching for good. Discover the human-centred way to land dream clients."
-    - Typical 6 to 14 words. Works because the cold-message pain is the reader's own. It is also the crowded claim in the market, so your specific mechanism has to differentiate. (Example: a freelancer tool whose mechanism is sending a free sample first.)
+    - Typical 6 to 14 words. Works because the cold-message pain is the reader's own. It is also the crowded claim in the market, so your specific mechanism has to differentiate.
 
 14. **The little hidden cost / leak**
     - "A Little Mistake That Cost a Farmer $3,000 a Year"

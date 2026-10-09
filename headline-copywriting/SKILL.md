@@ -5,21 +5,21 @@ description: Write hero headlines, subheads and positioning for landing pages, s
 
 # Headline copywriting
 
-A six-step process for hero headlines that people understand in five seconds. It came out of a real homepage rewrite: two rounds of "creative" headlines were rejected, and the round that won came from the steps below, in this order. Do not skip steps. Do not show the user headlines that skipped them.
-
-Worked example used throughout: a tool for freelancers who sell AI product photos. The winning headline was **"Find gigs, send samples and get paid"**, a mirror of Dubsado's "Book clients, send contracts and get paid".
+A six-step process for hero headlines that people understand in five seconds. Run the steps in this order. Do not skip steps. Do not show the user headlines that skipped them.
 
 ## Why headlines usually fail
 
 - Most of the effort goes into design and a little into words. Write the copy first, design after the copy is approved.
-- The headline is written from the model's taste instead of the customer's words. Words like "creative OS", "precision" or "measured" sounded good to the writer and were used by zero customers.
-- The whole pitch is crammed into the headline (12 to 19 words: audience, product, category, logo). A headline carries ONE idea. The subhead explains.
+- The headline is written from the model's taste instead of the customer's words. Abstract words that sound good to the writer are often words no customer ever uses.
+- The whole pitch is crammed into the headline (audience, product, category, logo). A headline carries ONE idea. The subhead explains.
 - New structures are invented. Proven structures beat invented ones.
-- Clever lines have no category word. In testing, "Hired at first sight" and "A sample makes it real" scored 0 to 6% comprehension.
+- Clever lines have no category word. A stranger cannot tell what is being sold, so comprehension collapses.
 
-## Step 1. Pick one ideal customer, and get it approved before any copy
+## Step 1. Define the ideal customer, and get it approved before any copy
 
-Read everything the user has about their customers: notes, interviews, support tickets, sales calls, analytics, any existing positioning docs. If there are several possible audiences, lay them out side by side in a plain-English table, recommend ONE for this page, and get the user's approval.
+Start from what the user knows. Ask them who their ideal customers are: who they are, what they want, what they use today, what frustrates them, and why they would buy.
+
+If the user does not know, or prefers you to look, analyse what is available: the codebase (README, landing page copy, pricing, onboarding, features, docs), the live site, and any notes, interviews, support tickets, sales calls or analytics they can share. Propose 2 to 4 possible ideal customers in a plain-English table, each marked as an assumption with the evidence it came from. Recommend ONE for this page and get the user's approval before going further.
 
 ## Step 2. Voice-of-customer mining
 
@@ -48,11 +48,11 @@ Collect proven headlines (start with `references/SWIPES.md` and `references/PATT
 - Classic direct response: swiped.co, swipefile.com, Victor Schwab's "100 Great Headlines", Caples, Ogilvy, Schwartz.
 - Offers that already sell to this same reader.
 
-Refresh the swipe file when the market is different from the one in the examples.
+The included swipe file leans toward SaaS and freelancer offers. Refresh it with headlines from your own market.
 
 Writer brief (give it to a strong writing model as a subagent): 30 headline and subhead pairs. Headline 3 to 9 words, ONE idea, and each one names the exact swipe it mirrors (verbatim + source) and keeps its rhythm. Subhead 12 to 30 words. It must make clear what the product is and who it is for, in the reader's words, then say how the headline's promise happens. Do not open the subhead with a robotic definition like "X is software that...". If a line reads like a spec, rewrite it.
 
-How the winning mirror worked: Dubsado's "Book clients, send contracts and get paid" became "Find gigs, send samples and get paid". It is a list of the reader's jobs, in their verbs, in order, ending on money.
+How a mirror works: take the swipe's shape and rhythm, and refill every slot with your reader's words. For example, Dubsado's "Book clients, send contracts and get paid" is a list of the reader's jobs, in their verbs, in order, ending on money. The same shape works for any product whose reader has a clear sequence of jobs.
 
 ## Step 5. Synthetic persona panel
 
@@ -70,11 +70,11 @@ Caveats: one model plays every persona, so gaps under 0.03 are ties. When the su
 
 ## Step 6. Present
 
-Show the top 4 with their subheads, scores, the swipe each one mirrors, what the panel taught, and an honest caveat (for example "click interest tops out at 5/10"). Give one recommendation. The user picks, and their pick beats the panel's #1. (In the worked example the user chose the panel's #6, which the panel had misread as "a marketplace like Upwork". The fix was to clear up that misreading in the subhead.)
+Show the top 4 with their subheads, scores, the swipe each one mirrors, what the panel taught, and an honest caveat (for example "click interest tops out at 5/10"). Give one recommendation. The user picks, and their pick beats the panel's #1. If the user picks an option the panel misread, fix that misreading in the subhead.
 
 ## Body copy: the user's own words first
 
-Researched body copy built from frameworks, voice-of-customer tables and checklists tends to read like documentation, not copy. In the worked example it was rejected as "unreadable, uninteresting". If the user has their own writing about the product (a post, a newsletter, a sales call transcript, a founder story), build every body section from their sentences, stories and numbers, near-verbatim, and only add connective lines in their voice. Show a short, clean page (headings and copy only, no notes or options) for review.
+Researched body copy built from frameworks, voice-of-customer tables and checklists tends to read like documentation, not copy. If the user has their own writing about the product (a post, a newsletter, a sales call transcript, a founder story), build every body section from their sentences, stories and numbers, near-verbatim, and only add connective lines in their voice. Show a short, clean page (headings and copy only, no notes or options) for review.
 
 Frameworks decide the section order and each section's job, never the sentences. Every line earns the next: hook, tension, a picture, a turn. If a line could sit on any SaaS site, rewrite it.
 
